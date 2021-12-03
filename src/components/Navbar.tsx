@@ -7,7 +7,6 @@ import { Home } from "../interfaces/index";
 import { useDispatch, useSelector } from "react-redux";
 import { useState } from "react";
 import { setSearch } from "../redux/action/index"
-
 import { useHistory } from "react-router";
 
 function Navbar() {
